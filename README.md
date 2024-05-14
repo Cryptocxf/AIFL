@@ -14,4 +14,5 @@ A threshold-based accountable ring signature (TARS) protocol to provide anonymit
 
 ## References
 [1] J. Bootle, A. Cerulli, P. Chaidos, et al., “Short accountable ring signatures based on DDH” in Proc. Eur. Symp. Res. Comput. Secur., Springer, pp. 243-265, 2015.
+
 [2] P. Blanchard, M. E. El. Mhamdi, R. Guerraoui, et al., “Machine learning with adversaries: Byzantine tolerant gradient descent,” Adv. Neur. Informat. Proc. Syst., vol. 30, 2017.
